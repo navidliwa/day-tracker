@@ -2,7 +2,7 @@
 
 This is a simple calendar application that allows you to save notes for different hours of the day. The calendar displays the current date and time, and uses color-coding to indicate which hours of the day have passed, which hour is currently happening, and which hours are in the future.
 
-[Track your workday here!]()
+[Track your workday here!](https://navidliwa.github.io/day-tracker/)
 
 # Features
 
@@ -12,7 +12,7 @@ This is a simple calendar application that allows you to save notes for differen
 
 # Page Appearance
 
-![work day tracker screenshot]()
+![work day tracker screenshot](./assets/screenshot.jpg)
 
 # License
 
