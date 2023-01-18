@@ -12,6 +12,7 @@ This is a simple calendar application that allows you to save notes for differen
 
 # Page Appearance
 
+This screenshot was taken before 9AM, hence the all the green sections. 
 ![work day tracker screenshot](./assets/screenshot.jpg)
 
 # License
