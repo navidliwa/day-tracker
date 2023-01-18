@@ -16,7 +16,7 @@ This is a simple calendar application that allows you to save notes for differen
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 # Acknowledgements
 
